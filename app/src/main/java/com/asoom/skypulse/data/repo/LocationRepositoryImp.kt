@@ -2,7 +2,7 @@ package com.asoom.skypulse.data.repo
 
 import android.content.Context
 import android.location.Geocoder
-import com.asoom.skypulse.data.LocationProvider
+import com.asoom.skypulse.data.location.LocationProvider
 import com.asoom.skypulse.domain.model.Coordinates
 import com.asoom.skypulse.domain.repo.LocationRepository
 import kotlinx.coroutines.flow.firstOrNull

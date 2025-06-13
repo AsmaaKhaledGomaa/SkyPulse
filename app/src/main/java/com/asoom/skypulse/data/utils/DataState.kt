@@ -1,4 +1,4 @@
-package com.asoom.skypulse.data
+package com.asoom.skypulse.data.utils
 
 sealed class DataState<out T> {
     object Loading : DataState<Nothing>()

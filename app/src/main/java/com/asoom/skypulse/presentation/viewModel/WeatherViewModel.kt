@@ -3,7 +3,7 @@ package com.asoom.skypulse.presentation.viewModel
 import com.asoom.skypulse.presentation.state.WeatherUiState
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.asoom.skypulse.data.DataState
+import com.asoom.skypulse.data.utils.DataState
 import com.asoom.skypulse.domain.usecase.GetWeatherUseCase
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

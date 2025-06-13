@@ -1,6 +1,6 @@
 package com.asoom.skypulse.data.repo
 
-import com.asoom.skypulse.data.DataState
+import com.asoom.skypulse.data.utils.DataState
 import com.asoom.skypulse.data.datasource.WeatherForecastDataSource
 import com.asoom.skypulse.data.mapper.toDomain
 import com.asoom.skypulse.data.remote.dto.WeatherForecastResponseDto

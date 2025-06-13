@@ -1,6 +1,6 @@
 package com.asoom.skypulse.data.datasource
 
-import com.asoom.skypulse.data.DataState
+import com.asoom.skypulse.data.utils.DataState
 import com.asoom.skypulse.data.remote.dto.WeatherForecastResponseDto
 import kotlinx.coroutines.flow.Flow
 

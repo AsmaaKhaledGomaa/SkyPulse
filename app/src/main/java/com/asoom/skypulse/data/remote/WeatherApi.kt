@@ -1,6 +1,6 @@
 package com.asoom.skypulse.data.remote
 
-import com.asoom.skypulse.data.BASE_URL
+import com.asoom.skypulse.data.utils.BASE_URL
 import com.asoom.skypulse.data.remote.dto.WeatherForecastResponseDto
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body

@@ -1,17 +1,17 @@
-package com.asoom.skypulse.data
+package com.asoom.skypulse.data.location
 
 import android.Manifest
 import android.content.Context
 import android.content.pm.PackageManager
 import android.location.Location
 import androidx.core.content.ContextCompat
+import com.asoom.skypulse.data.location.LocationProvider
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.location.Priority
 import com.google.android.gms.tasks.CancellationTokenSource
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.callbackFlow
-
 
 class GpsLocationProvider(
     private val context: Context

@@ -1,7 +1,7 @@
 package com.asoom.skypulse.di
 
-import com.asoom.skypulse.data.GpsLocationProvider
-import com.asoom.skypulse.data.LocationProvider
+import com.asoom.skypulse.data.location.GpsLocationProvider
+import com.asoom.skypulse.data.location.LocationProvider
 import com.asoom.skypulse.data.datasource.WeatherForecastDataSource
 import com.asoom.skypulse.data.datasource.WeatherForecastDataSourceImp
 import com.asoom.skypulse.data.remote.WeatherApi
