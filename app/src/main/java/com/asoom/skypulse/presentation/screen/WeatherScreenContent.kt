@@ -83,7 +83,6 @@ fun WeatherScreenContent(weatherUiState: WeatherUiState) {
                 modifier = Modifier
                     .fillMaxSize()
                     .background(brush = backgroundGradient)
-                    .padding(horizontal = 12.dp)
                     .systemBarsPadding()
             ) {
                 item { CurrentLocation(cityName = weatherUiState.cityName ?: "Unknown", isDay) }
