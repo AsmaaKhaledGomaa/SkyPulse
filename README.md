@@ -4,7 +4,7 @@ A beautiful Android weather application built with Jetpack Compose that dynamica
 
 ## 🎥 Demo Video
 
-*Add your demo video here showcasing the dynamic theme changes based on location and weather conditions*
+https://github.com/user-attachments/assets/61fe0de0-a19b-4911-b1ad-0f9ae66c48ed
 
 ## ✨ Features
 
@@ -57,10 +57,6 @@ A beautiful Android weather application built with Jetpack Compose that dynamica
 - **Real-time Data**: Live weather updates
 - **Global Coverage**: Weather data for locations worldwide
 
-## 📱 Screenshots
-
-*Add your demo video here showcasing the dynamic theme changes based on location and weather conditions*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -68,25 +64,6 @@ A beautiful Android weather application built with Jetpack Compose that dynamica
 - Android SDK 24+ (Android 7.0)
 - Kotlin 2.0.21+
 - Gradle 8.10.1+
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/SkyPulse.git
-   cd SkyPulse
-   ```
-
-2. **Open in Android Studio**
-   - Launch Android Studio
-   - Select "Open an existing project"
-   - Navigate to the SkyPulse directory
-
-3. **Build and Run**
-   ```bash
-   ./gradlew assembleDebug
-   ```
-   Or use Android Studio's "Run" button
 
 ### Permissions
 The app requires the following permissions:
@@ -151,18 +128,6 @@ Configured for optimal battery usage and accuracy:
 - Geocoder for address resolution
 - Permission-aware location handling
 
-## 🧪 Testing
-
-Run the test suite:
-```bash
-./gradlew test
-```
-
-Run UI tests:
-```bash
-./gradlew connectedAndroidTest
-```
-
 ## 📦 Dependencies
 
 Key dependencies include:
@@ -173,22 +138,14 @@ Key dependencies include:
 - **Navigation Compose**: 2.7.0
 - **Accompanist**: 0.31.4-beta (Compose utilities)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Asoom**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Asmaa**
+- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/AsmaaKhaledGomaa))
 
 ## 🙏 Acknowledgments
 
